@@ -29,11 +29,11 @@ Macs, or any other Linux variant. You may need to consult the documentation for 
 system to get some things installed though.
 In this book, I use pip for installing code, which is a command line tool for installing Python
 libraries.
-Another option is to use Anaconda, which can be found online here:
+Another option is to use Anaconda, which can be found online here:<br/>
 http://continuum.io/downloads
-I also have tested all code using Python 3. Most of the code examples work on Python 2
+<p>I also have tested all code using Python 3. Most of the code examples work on Python 2
 with no changes. If you run into any problems, and can’t get around it, send an email and
-we can offer a solution.
+we can offer a solution.</p>
 
 ## Related Products
 * [Mastering Data Mining with Python - Find patterns hidden in your data](https://www.packtpub.com/big-data-and-business-intelligence/mastering-data-mining-python-–-find-patterns-hidden-your-data?utm_source=github&utm_medium=repository&utm_campaign=9781785889950)
@@ -43,4 +43,4 @@ we can offer a solution.
 * [Python: Data Analytics and Visualization](https://www.packtpub.com/big-data-and-business-intelligence/python-data-analytics-and-visualization?utm_source=github&utm_medium=repository&utm_campaign=9781788290098)
 
 ### Suggestions and Feedback
-   [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
+[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
