@@ -28,8 +28,8 @@ I recommend the Ubuntu operating system, but the code should work well on Window
 Macs, or any other Linux variant. You may need to consult the documentation for your
 system to get some things installed though.
 In this book, I use pip for installing code, which is a command line tool for installing Python
-libraries.
-Another option is to use Anaconda, which can be found online here:</p>
+libraries.</p>
+<p>Another option is to use Anaconda, which can be found online here:</p>
 http://continuum.io/downloads
 <p>I also have tested all code using Python 3. Most of the code examples work on Python 2
 with no changes. If you run into any problems, and can’t get around it, send an email and
