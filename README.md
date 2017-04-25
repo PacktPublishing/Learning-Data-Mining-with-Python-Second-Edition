@@ -14,7 +14,7 @@ dataset_filename = "affinity_dataset.txt"
 X = np.loadtxt(dataset_filename)
 ```
 
-It should come as no surprise that you’ll need a computer, or access to one, to complete the
+<p>It should come as no surprise that you’ll need a computer, or access to one, to complete the
 book. The computer should be reasonably modern, but it doesn’t need to be overpowered.
 Any modern processor (from about 2010 onwards) and 4 gigabytes of RAM will suffice, and
 you can probably run almost all of the code on a slower system too.
@@ -29,7 +29,7 @@ Macs, or any other Linux variant. You may need to consult the documentation for 
 system to get some things installed though.
 In this book, I use pip for installing code, which is a command line tool for installing Python
 libraries.
-Another option is to use Anaconda, which can be found online here:<br/>
+Another option is to use Anaconda, which can be found online here:</p>
 http://continuum.io/downloads
 <p>I also have tested all code using Python 3. Most of the code examples work on Python 2
 with no changes. If you run into any problems, and can’t get around it, send an email and
